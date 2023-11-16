@@ -10,16 +10,11 @@
 ## Technologies
 
 - React: A JavaScript library for building user interfaces.
-- Tailwind CSS: A utility-first CSS framework for building modern web applications.
 - React Router DOM: A library for declarative routing in web applications using React.
 - Leaflet Map: A leading open-source JavaScript library for interactive maps.
 
+## Demo
+See the live demo of the Wild-Oasis Quiz App: [demo](https://worldwise-ahmed.netlify.app/)
+
 ## Contact
-
-If you have any questions or want to get in touch, you can find me on LinkedIn: https://www.linkedin.com/in/ahmed-mosad-5ab36b285/
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If you have any questions or want to get in touch, you can find me on LinkedIn:[LinkedIn](https://www.linkedin.com/in/ahmed-mosad-5ab36b285/)
